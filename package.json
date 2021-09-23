@@ -1,0 +1,27 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "sms bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "twilio": "^3.67.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonm24/jarvis.git"
+  },
+  "author": "jon michalak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonm24/jarvis/issues"
+  },
+  "homepage": "https://github.com/jonm24/jarvis#readme"
+}
